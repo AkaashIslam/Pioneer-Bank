@@ -1,6 +1,13 @@
 body{
     padding: 100px;
 }
+.welcome{
+    color: #ffc107;
+    
+}
+.login-1{
+    color: rgb(31, 18, 221);
+}
 .submit-area{
     margin-top: 50px;
     padding: 40px;
