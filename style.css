@@ -2,17 +2,20 @@ body{
     padding: 100px;
 }
 .welcome{
-    color: #ffc107;
+    color: #000000;
     
 }
+.akaash{
+    color:rgb(146, 90, 146);
+}
 .login-1{
-    color: rgb(31, 18, 221);
+    color: purple;
 }
 .submit-area{
     margin-top: 50px;
     padding: 40px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 5px 5px 10px rgb(138, 95, 138);
 }
 #transaction-area{
     display: none;
@@ -22,7 +25,7 @@ body{
     color: white;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 5px 5px 10px rgb(156, 160, 160);
     
 }
 .deposit{
